@@ -1,1 +1,1 @@
-My first practice project, using HTML and Internal CSS
+My first practice projects, using HTML and CSS
